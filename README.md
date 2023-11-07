@@ -1,6 +1,4 @@
-## A template project setup
-
-This is my preferred project setup. It includes React with JSX, TypeScript, Prettier, and TailwindCSS.
+## A site of hot dogs without buns
 
 ## Setup
 
